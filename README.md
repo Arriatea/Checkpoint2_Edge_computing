@@ -69,7 +69,7 @@ O display LCD 16x2 exibe:
 3. Nível de luminosidade ambiente
 
 ⏱️ **Atualização a cada 5 segundos.**
-**os dados apresentados são a média de 5 leituras.**
+os dados apresentados são a média de 5 leituras.
 ---
 
 ## 🚨 <span style="color:#FF6347">Alertas</span>
